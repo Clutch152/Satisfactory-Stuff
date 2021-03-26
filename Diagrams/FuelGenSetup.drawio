@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T02:10:19.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JCPfqStU88jlqTWKZB_u" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-26T02:10:27.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0SjSfx2n-2XAhb1R3KD6" version="14.5.1" type="github" pages="2">
   <diagram id="KOUiO_94rboncU0I1gDs" name="Turbo Fuel Process">
     <mxGraphModel dx="2912" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2644,7 +2644,7 @@
         <mxCell id="c7N86Niw_Qra1BjyVY58-64" value="&lt;font style=&quot;font-size: 30px&quot;&gt;R&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8I7JkrkiSIwsQXv2m8CM-2">
           <mxGeometry x="520" y="1480" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8I7JkrkiSIwsQXv2m8CM-3" value="Internal Power Wing" style="" parent="YccHLz6-AAQNzdd0j6I1-0" />
+        <mxCell id="8I7JkrkiSIwsQXv2m8CM-3" value="Internal Power Wing" style="locked=1;" parent="YccHLz6-AAQNzdd0j6I1-0" />
         <mxCell id="c7N86Niw_Qra1BjyVY58-102" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="8I7JkrkiSIwsQXv2m8CM-3">
           <mxGeometry x="-680" y="1160" width="100" height="100" as="geometry" />
         </mxCell>
