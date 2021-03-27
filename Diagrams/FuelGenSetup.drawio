@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-27T15:50:13.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fC4jvYOMW_TjUXkvligH" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-27T15:55:53.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CoxD4rR4kYY2glpUQkfu" version="14.5.3" type="github" pages="2">
   <diagram id="KOUiO_94rboncU0I1gDs" name="Turbo Fuel Process">
     <mxGraphModel dx="2912" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1803,7 +1803,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8yLFLEcrWATDMUec7uxb" name="Power Plant">
-    <mxGraphModel dx="3796" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6005" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="YccHLz6-AAQNzdd0j6I1-0" />
         <mxCell id="YccHLz6-AAQNzdd0j6I1-1" value="Main Generator Floor" style="locked=1;" parent="YccHLz6-AAQNzdd0j6I1-0" visible="0" />
