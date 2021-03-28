@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T18:09:49.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="FrZDaMtY7pYQWjk3KU_g" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-28T18:09:55.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EIlwji0ZMEl1FPaiDnzZ" version="14.5.3" type="github" pages="2">
   <diagram id="KOUiO_94rboncU0I1gDs" name="Turbo Fuel Process">
     <mxGraphModel dx="2912" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2386,7 +2386,7 @@
         <mxCell id="8I7JkrkiSIwsQXv2m8CM-7" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Front&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;horizontal=0;" parent="YccHLz6-AAQNzdd0j6I1-1" vertex="1">
           <mxGeometry x="905" y="1080" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8I7JkrkiSIwsQXv2m8CM-0" value="Compacted Coal Wing" style="" parent="YccHLz6-AAQNzdd0j6I1-0" />
+        <mxCell id="8I7JkrkiSIwsQXv2m8CM-0" value="Compacted Coal Wing" style="locked=1;" parent="YccHLz6-AAQNzdd0j6I1-0" />
         <mxCell id="8I7JkrkiSIwsQXv2m8CM-8" value="" style="whiteSpace=wrap;html=1;perimeterSpacing=0;fillColor=none;strokeWidth=3;editable=0;movable=1;" parent="8I7JkrkiSIwsQXv2m8CM-0" vertex="1">
           <mxGeometry x="-760" y="400" width="1560" height="1400" as="geometry" />
         </mxCell>
